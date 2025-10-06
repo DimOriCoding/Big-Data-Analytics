@@ -1,2 +1,6 @@
 # Big-Data-Analytics
-Implementation of a project that the basic steps of the process followed for applying mining data mining techniques are applied.
+This repository contains a project which has as main goal to make an instruction to the basic steps of the process followed for applying data mining techniques, namely: collection, preprocessing / cleaning,
+conversion, application of data mining techniques and evaluation. This project is done the Python programming language using the SciKit Learn tool and consists of the following tasks:
+
+ 1)Create a word cloud for each one of following article categories: Business, Health, Entertainment, Technology in order to provide a general description of the category(**https://github.com/DimOriCoding/Big-Data-Analytics/blob/main/wordclouds.py**)
+
