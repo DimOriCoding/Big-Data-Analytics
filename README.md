@@ -9,6 +9,6 @@ conversion, application of data mining techniques and evaluation. This project i
 
  3)The final task of this project is about Dynamic Time Warping (DTW), which is an algorithm used to compare two time-based datasets (like two sequences of numbers) to find similarities. It does this by adjusting the timings of the data points to minimize the difference between the two datasets. For a dataset including  two time series (**https://github.com/DimOriCoding/Big-Data-Analytics/blob/main/DTW.distances.csv**)The  DTW is used with euclidean distance to calculate the distance between them.
 
-The above project is implemented in collaboration with Sofia Kalogiannidi which is a postgraduate student of the graduate (MSc) program  of the department of Informatics and Telecommunications of UoA named "Computer Science".
+The above project is implemented in collaboration with Sofia Kalogiannidi which is a former postgraduate student of the graduate (MSc) program  of the department of Informatics and Telecommunications of UoA named "Computer Science".
  
 
